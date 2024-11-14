@@ -65,22 +65,22 @@ const About = () => {
         {
             icon: FaLaptopCode,
             title: "Senior Full Stack Developer",
-            company: "Tech Innovators Inc.",
-            period: "2020 - Present",
+            company: "Xion Computing plc.",
+            period: "2023 - Present",
             description: "Leading development of enterprise applications"
         },
         {
             icon: FaUserGraduate,
             title: "Software Engineering Degree",
             company: "Tech University",
-            period: "2016 - 2020",
-            description: "Bachelor's in Computer Science"
+            period: "2021 - 2025",
+            description: "Bachelor's in Software Engineering"
         },
         {
             icon: FaCoffee,
             title: "Freelance Developer",
             company: "Self-employed",
-            period: "2018 - 2020",
+            period: "2023 - 2024",
             description: "Worked on various client projects"
         }
     ];
